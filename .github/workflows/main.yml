@@ -1,0 +1,5 @@
+            - name: Jekyll Build
+  # You may pin to the exact commit or the version.
+  # uses: kshehadeh/jekyll-s3-action@220371747871b9aa1b635fb30a57693891e37982
+  uses: kshehadeh/jekyll-s3-action@0.1
+          
