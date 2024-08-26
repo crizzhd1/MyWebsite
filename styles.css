@@ -116,3 +116,19 @@ footer {
     padding: 1rem 0;
     margin-top: 2rem;
 }
+
+
+/* Grid for tablets (screen width 768px and above) */
+@media (max-width: 768px) {
+    .grid-container {
+        grid-template-columns: repeat(2, 1fr); /* 2 columns on tablets */
+    }
+}
+
+/* Grid for mobile devices (screen width 480px and below) */
+@media (max-width: 480px) {
+    .grid-container {
+        grid-template-columns: 1fr; /* 1 column on mobile */
+    }
+}
+
