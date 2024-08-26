@@ -46,7 +46,7 @@ section {
 
 .grid-container {
   display: grid;
-  width: 100%;
+  width: 100vh;
   max-width: auto;
   grid-template-columns: auto auto auto;
   padding: 10px;
