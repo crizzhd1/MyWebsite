@@ -90,6 +90,11 @@ section {
    
 }
 
+.contact{
+    background: #555;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
 footer {
     background: #333;
     color: #fff;
