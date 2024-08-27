@@ -51,6 +51,11 @@ section {
   padding: 20px;
 }
 
+.contact{
+    background: #555;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
 #about {
     background: #333;
     padding: 3rem 1.5rem;
@@ -81,18 +86,6 @@ section {
 
 #projects .btn:hover {
     background: #555;
-}
-
-.contact {
-
-    background: #555;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-   
-}
-
-.contact{
-    background: #555;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 footer {
