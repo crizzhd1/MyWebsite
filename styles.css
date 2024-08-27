@@ -83,6 +83,14 @@ section {
     background: #555;
 }
 
+.contact{
+     background: #fff;
+    margin: 2rem auto;
+    padding: 1.5rem;
+    width: 60%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
 footer {
     background: #333;
     color: #fff;
