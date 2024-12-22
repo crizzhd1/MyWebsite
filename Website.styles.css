@@ -10,11 +10,12 @@ main[b-wvpzi7ue15] {
 }
 
 .sidebar[b-wvpzi7ue15] {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    
+    background-color: #414141
 }
 
 .top-row[b-wvpzi7ue15] {
-    background-color: #f7f7f7;
+    background-color: #525252;
     border-bottom: 1px solid #d6d5d5;
     justify-content: flex-end;
     height: 3.5rem;
