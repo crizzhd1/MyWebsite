@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Website",
   "resources": {
-    "hash": "sha256-8kA4ibfubQVYdT7YBdF2EywpLewYVRuzceVBxxmqNgA=",
+    "hash": "sha256-9o73QjuQXeHgIkzNnXuMPP6yeuaMrnB7q5V+OLxAgWw=",
     "jsModuleNative": {
       "dotnet.native.8.0.11.l1h1f8dv84.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
